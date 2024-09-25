@@ -1,7 +1,3 @@
-Aşağıda, projenin özelliklerini ve kullanımını temel alan bir örnek README dosyası taslağı hazırladım. Projeyi tanıtarak, kurulum ve kullanım adımlarını açıklıyor.
-
----
-
 # Spring Boot Elasticsearch Demo
 
 This is a demo project for integrating **Spring Boot** with **Elasticsearch**. The project demonstrates basic CRUD operations and the interaction between a Spring Boot application and an Elasticsearch cluster.
